@@ -7,6 +7,6 @@ cd switchled
 npm install
 
 # Run
-sudo node index.js
+node index.js
 
 
